@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The iDonate Life mobile application is developed to facilitate and streamline the blood 
 donation process, catering to the needs of donors, recipients, administrators, and healthcare 
 providers. The app allows donors to register, update their profiles, view donation history, 
@@ -40,3 +41,6 @@ fosters a sense of community and support.
 
 
 
+=======
+# iDonate-Life-Mobile-App-Side
+>>>>>>> 124edf844c90e7a27b150aa8e2df6cac604e8a72
